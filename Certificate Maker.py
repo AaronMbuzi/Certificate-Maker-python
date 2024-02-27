@@ -20,3 +20,4 @@ for name in names:
     certificate_filename = f"certificate_{name.replace(' ', '_')}.png"
     certificate.save(certificate_filename)
     print(f"Certificate for {name} created: {certificate_filename}")
+#By Aaron Mbuzi
