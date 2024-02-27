@@ -1,5 +1,6 @@
 # Certificate-Maker Documentation
 Simple Python Script used for creating Certificates from an image template with a list of Names provided.
+
 Open the Certificate Maker.py file using a text editor of your choice (VSCode, Notepad, Pycharm ...).
 
 Load the certificate template image, Ensure the full name with image extention (png,jpg...) in the same location as the python script.
