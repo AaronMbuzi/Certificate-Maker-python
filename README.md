@@ -9,7 +9,7 @@ Type the font type and font size of your choice in the argument below.
 ```python
 font = ImageFont.truetype("arial.ttf", 50)
 ```
-Define the initial position of the name on the certificates using coordinates Below.
+Define the initial position of the name on the certificates using x and y coordinates Below. You are free to adjust the corodinates to ensure the names fit where they are supposed to on the certificate.
 ```python
 x = 730
 y = 620
