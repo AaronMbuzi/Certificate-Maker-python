@@ -18,3 +18,8 @@ Load the list of names to appear on the certificates as shown below.
 ```python
 names = ["James Muldowney", "Korinne Balsinger", "Angella Tiley"]
 ```
+## Example
+There is a template certificate named certificate_template.png that is already loaded with the script with a set of the following names; James Muldowney, Korinne Balsinger, Angella Tiley. Make sure you have python installed with the Pillow module. if not use the following command:
+```python
+pip install Pillow
+```
