@@ -24,3 +24,7 @@ There is a template certificate named certificate_template.png that is already l
 ```python
 pip install Pillow
 ```
+If all have been installed, run the python script and wait for it to create your certificates. 
+This will only work with images.
+
+by Aaron Mbuzi
